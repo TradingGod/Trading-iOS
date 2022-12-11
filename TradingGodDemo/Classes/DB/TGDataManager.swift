@@ -25,7 +25,7 @@ class TGDataManager {
         trades.ts = tradesModel.ts
         do {
             try context.save()
-            print("保存成功")
+//            print("保存成功")
         }catch {
             print("保存失败\(error)")
         }
