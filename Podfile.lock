@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.9.1)
+  - MJRefresh (3.7.5)
+  - SDWebImage (5.14.2):
+    - SDWebImage/Core (= 5.14.2)
+  - SDWebImage/Core (5.14.2)
+  - SnapKit (4.2.0)
+  - SocketRocket (0.6.0)
+  - Starscream (4.0.4)
+  - SwiftyJSON (5.0.1)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - MJRefresh (~> 3.7.5)
+  - SDWebImage (~> 5.14.2)
+  - SnapKit
+  - SocketRocket
+  - Starscream (~> 4.0.4)
+  - SwiftyJSON (~> 5.0.1)
+  - YYModel (~> 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MJRefresh
+    - SDWebImage
+    - SnapKit
+    - SocketRocket
+    - Starscream
+    - SwiftyJSON
+    - YYModel
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  SDWebImage: b9a731e1d6307f44ca703b3976d18c24ca561e84
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: f6eea0710a9b3ae0081ed5b1f9f1a382532ec98a
+
+COCOAPODS: 1.11.3
